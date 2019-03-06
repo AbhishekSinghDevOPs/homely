@@ -18,4 +18,4 @@ int main()
 	 cout<<(4,5);
 	 cout<<area (7.6f);
 }
-
+int main()
